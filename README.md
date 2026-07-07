@@ -16,11 +16,12 @@ Welcome to my portfolio! I specialize in data cleaning, predictive modeling, and
 
 ## 🚀 Featured Projects
 
-### 1. [Project 1 Title: e.g., E-Commerce Sales Analysis]
-* **Objective:** Analyzed 50,000 rows of transaction data to find out why Q3 sales dropped by 12%.
-* **Tools Used:** SQL (PostgreSQL), Tableau
-* **Key Insight:** A shipping delay from a specific supplier caused a 40% drop in repeat purchases.
-* **[👉 View Full Case Study & Code Here](link-to-your-project-folder)**
+### 1. HR Employee Attrition Analysis
+
+**Objective: Analyzed 1,470 employee records to identify which factors drive employee attrition and provide data-backed retention recommendations.
+Tools Used: Excel (Pivot Tables, PivotCharts, Slicers, nested formulas)
+Key Insight: Attrition isn't a company-wide problem — it's concentrated in a specific profile: employees under 25 (39.2% attrition vs. 16.1% overall), those working overtime (30.5% vs. 10.4%), and Sales staff. Notably, Laboratory Technicians have the highest individual attrition rate (23.9%) despite sitting in R&D, the most stable department overall — a pattern invisible at the department level alone.
+[👉 View Full Case Study & Code Here](link-to-your-project-folder)**
 
 ### 2. [Project 2 Title: e.g., Customer Churn Prediction]
 * **Objective:** Built a model to predict which subscription users are likely to cancel.
