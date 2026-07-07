@@ -18,17 +18,14 @@ Welcome to my portfolio! I specialize in data cleaning, predictive modeling, and
 
 ### 1. HR Employee Attrition Analysis
 
-**Objective: Analyzed 1,470 employee records to identify which factors drive employee attrition and provide data-backed retention recommendations.
-Tools Used: Excel (Pivot Tables, PivotCharts, Slicers, nested formulas)
-Key Insight: Attrition isn't a company-wide problem — it's concentrated in a specific profile: employees under 25 (39.2% attrition vs. 16.1% overall), those working overtime (30.5% vs. 10.4%), and Sales staff. Notably, Laboratory Technicians have the highest individual attrition rate (23.9%) despite sitting in R&D, the most stable department overall — a pattern invisible at the department level alone.
-[👉 View Full Case Study & Code Here](link-to-your-project-folder)**
+**Objective: Analyzed 1,470 employee records to identify which factors drive employee attrition and provide data-backed retention recommendations.**
+**Tools Used: Excel (Pivot Tables, PivotCharts, Slicers, nested formulas)**
+**Key Insight: Attrition isn't a company-wide problem  it's concentrated in a specific profile: employees under 25 (39.2% attrition vs. 16.1% overall), those working overtime (30.5% vs. 10.4%), and Sales staff. Notably, Laboratory Technicians have the highest individual attrition rate (23.9%) despite sitting in R&D, the most stable department overall  a pattern invisible at the department level alone.**
+**[👉 View Full Case Study & Code Here](link-to-your-project-folder)**
 
-### 2. [Project 2 Title: e.g., Customer Churn Prediction]
-* **Objective:** Built a model to predict which subscription users are likely to cancel.
-* **Tools Used:** Python (Scikit-Learn), Jupyter Notebook
-* **[👉 View Full Case Study & Code Here](link-to-your-project-folder)**
+
 
 ---
 ## 📫 Let's Connect!
-* **LinkedIn:** [Your LinkedIn URL]
-* **Email:** your.email@example.com
+* **LinkedIn:** [www.linkedin.com/in/kosisochukwu-obinwa-8578872bb]
+* **Email:**obinwakosisochukwu@gmail.com
